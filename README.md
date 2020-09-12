@@ -1,4 +1,4 @@
-# flutter_random_words_v2
+# flutter_dhikr
 
 A new Flutter project.
 
